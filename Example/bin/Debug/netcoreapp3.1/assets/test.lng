@@ -1,0 +1,14 @@
+@SECTION (PhysProps)
+[Float](TexID): {2.3}
+[String](Render): {"Yolo"}
+[Float2](Color): {20, 15}
+@SECTION [END]
+
+@SECTION (RenderProps)
+[Float](RendererID): {1}
+[String](RendererName): {"TestRenderer"}
+@SECTION [END]
+
+@SECTION (PhysProps)
+[Float2](TexID): {2, 3}
+@SECTION [END]

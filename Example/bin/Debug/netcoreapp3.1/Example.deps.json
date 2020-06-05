@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Example/1.0.0": {
+        "dependencies": {
+          "LNG_CS": "1.0.0"
+        },
+        "runtime": {
+          "Example.dll": {}
+        }
+      },
+      "LNG_CS/1.0.0": {
+        "runtime": {
+          "LNG_CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LNG_CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

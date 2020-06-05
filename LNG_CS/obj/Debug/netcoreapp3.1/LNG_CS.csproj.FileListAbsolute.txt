@@ -1,0 +1,8 @@
+F:\dev\C#\LNG_CS\LNG_CS\bin\Debug\netcoreapp3.1\LNG_CS.deps.json
+F:\dev\C#\LNG_CS\LNG_CS\bin\Debug\netcoreapp3.1\LNG_CS.dll
+F:\dev\C#\LNG_CS\LNG_CS\bin\Debug\netcoreapp3.1\LNG_CS.pdb
+F:\dev\C#\LNG_CS\LNG_CS\obj\Debug\netcoreapp3.1\LNG_CS.csprojAssemblyReference.cache
+F:\dev\C#\LNG_CS\LNG_CS\obj\Debug\netcoreapp3.1\LNG_CS.AssemblyInfoInputs.cache
+F:\dev\C#\LNG_CS\LNG_CS\obj\Debug\netcoreapp3.1\LNG_CS.AssemblyInfo.cs
+F:\dev\C#\LNG_CS\LNG_CS\obj\Debug\netcoreapp3.1\LNG_CS.dll
+F:\dev\C#\LNG_CS\LNG_CS\obj\Debug\netcoreapp3.1\LNG_CS.pdb

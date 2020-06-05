@@ -1,0 +1,14 @@
+F:\dev\C#\LNG_CS\Example\bin\Debug\netcoreapp3.1\Example.exe
+F:\dev\C#\LNG_CS\Example\bin\Debug\netcoreapp3.1\Example.deps.json
+F:\dev\C#\LNG_CS\Example\bin\Debug\netcoreapp3.1\Example.runtimeconfig.json
+F:\dev\C#\LNG_CS\Example\bin\Debug\netcoreapp3.1\Example.runtimeconfig.dev.json
+F:\dev\C#\LNG_CS\Example\bin\Debug\netcoreapp3.1\Example.dll
+F:\dev\C#\LNG_CS\Example\bin\Debug\netcoreapp3.1\Example.pdb
+F:\dev\C#\LNG_CS\Example\bin\Debug\netcoreapp3.1\LNG_CS.dll
+F:\dev\C#\LNG_CS\Example\bin\Debug\netcoreapp3.1\LNG_CS.pdb
+F:\dev\C#\LNG_CS\Example\obj\Debug\netcoreapp3.1\Example.csprojAssemblyReference.cache
+F:\dev\C#\LNG_CS\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfoInputs.cache
+F:\dev\C#\LNG_CS\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfo.cs
+F:\dev\C#\LNG_CS\Example\obj\Debug\netcoreapp3.1\Example.csproj.CopyComplete
+F:\dev\C#\LNG_CS\Example\obj\Debug\netcoreapp3.1\Example.dll
+F:\dev\C#\LNG_CS\Example\obj\Debug\netcoreapp3.1\Example.pdb

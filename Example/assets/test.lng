@@ -1,0 +1,14 @@
+@SECTION (PhysProps)
+[Float](Point): {2.3}
+[String](Render): {"Yolo"}
+[Float4](Color): {20.000000, 15.000000, 13.000000, 18.000000}
+@SECTION [END]
+
+@SECTION (RenderProps)
+[Float](Progress): {1.212}
+[String](RendererName): {"TestRenderer"}
+@SECTION [END]
+
+@SECTION (PhysProps)
+[Float](Point): {2.3}
+@SECTION [END]
